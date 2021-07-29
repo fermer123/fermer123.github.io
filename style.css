@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  font-family: 'Times New Roman', Times, Baskerville, Georgia, serif;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+  line-height: 1;
+  font-size: 18px;
+}
+
+span.Name {
+  color: red;
+  font-size: bold;
+  display: inline-block;
+  font-size: 24px;
+}
+
+.Bolder {
+  border: 1px solid #000;
+  width: 400px;
+  text-align: top;
+  display: inline-block;
+  margin: 7px 0 7px 7px;
+}
+.Bolder span {
+  font-weight: 700;
+}
+
+.image {
+  width: 300px;
+  height: 407px;
+  border: 1px solid #000;
+  float: left;
+  margin: 7px 0 7px 7px;
+}
+table {
+  width: 400px;
+  border: 1px solid #000;
+  margin: 7px 0 7px 315px;
+}
+td {
+  border: 1px solid #000;
+}
